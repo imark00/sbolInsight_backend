@@ -32,9 +32,11 @@ build/
 *.rdf
 *.ttl
 *.json
+*.properties
 
 ### VS Code ###
 .vscode/
 
 src/main/resources/assets/libs/
 src/main/resources/assets/sbol_files/
+
